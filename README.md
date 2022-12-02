@@ -17,7 +17,7 @@ Advances in Data Mining Project 2.
     - 价格：聚类，用中位数
     - Lag：1, 4, 12 月
 - 文本特征：预训练词向量 (LSP) / 翻译成英语 (JKT)
-    - 商品类别：聚类作为定序变量
+    - 商品类别：聚类作为定类变量
     - 商品名：提取 patterns
     - 商店名：City + Type (TC, SEC, TSC, TK) + Name
 
