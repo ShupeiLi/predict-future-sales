@@ -1,0 +1,85 @@
+item_category_name,item_category_id,category_1,category_2
+PC - Headsets/Headphones,0,headphones,headphones
+Accessories - PS2,1,accessories,ps2
+Accessories - PS3,2,accessories,ps3
+Accessories - PS4,3,accessories,ps4
+Accessories - PSP,4,accessories,psp
+Accessories - PSVita,5,accessories,psvita
+Accessories - XBOX 360,6,accessories,xbox 360
+Accessories - XBOX ONE,7,accessories,xbox one
+Tickets (Digital),8,tickets,tickets
+Delivery of goods,9,delivery,delivery
+Game consoles - PS2,10,game consoles,ps2
+Game consoles - PS3,11,game consoles,ps3
+Game consoles - PS4,12,game consoles,ps4
+Game consoles - PSP,13,game consoles,psp
+Game consoles - PSVita,14,game consoles,psvita
+Game Consoles - XBOX 360,15,game consoles,xbox 360
+Game consoles - XBOX ONE,16,game consoles,xbox one
+Game consoles - Other,17,game consoles,other
+Games - PS2,18,games,ps2
+Games - PS3,19,games,ps3
+Games - PS4,20,games,ps4
+Games - PSP,21,games,psp
+Games - PSVita,22,games,psvita
+Games - XBOX 360,23,games,xbox 360
+Games - XBOX ONE,24,games,xbox one
+Games - Accessories for games,25,games,accessories
+Android Games - Digit,26,android games,android
+MAC Games - Digit,27,mac games,mac
+PC Games - Extra Editions,28,pc games,pc
+PC Games - Collector's Editions,29,pc games,pc
+PC Games - Standard Editions,30,pc games,pc
+PC Games - Digit,31,pc games,pc
+"Payment cards (Movie, Music, Games)",32,payment cards,cards
+Payment cards - Live!,33,payment cards,cards
+Payment cards - Live! (Number),34,payment cards,cards
+Payment cards - PSN,35,payment cards,cards
+Payment cards - Windows (Digital),36,payment cards,cards
+Cinema - Blu-Ray,37,cinema,blue
+Cinema - Blu-Ray 3D,38,cinema,blue
+Cinema - Blu-Ray 4K,39,cinema,blue
+Cinema - DVD,40,cinema,dvd
+Cinema - Collection,41,cinema,collection
+"Books - Artbooks, encyclopedias",42,books,artbooks
+Books - Audiobooks,43,books,audiobooks
+Books - Audiobooks (Digital),44,books,audiobooks
+Books - Audiobooks 1C,45,books,audiobooks
+Books - Business Literature,46,books,busniess
+"Books - Comics, manga",47,books,comics
+Books - Computer Literature,48,books,computer
+Books - Methodological materials 1C,49,books,method
+Books - Postcards,50,books,postcards
+Books - Cognitive literature,51,books,cognitive
+Books - Guides,52,books,guides
+Books - Fiction,53,books,fiction
+Books - Digit,54,books,digit
+Music - local CD,55,music,cd
+Music - branded CD,56,music,cd
+Music - MP3,57,music,mp3
+Music - Vinyl,58,music,vinyl
+Music - Music Video,59,music,video
+Music - Gift editions,60,music,gift
+Gifts - Paraphernalia,61,gifts,paraphernalia
+"Gifts - Gadgets, robots, sports",62,gifts,robots
+Gifts - Soft toys,63,gifts,soft
+Gifts - Board games,64,gifts,board
+Gifts - Board games (compact),65,gifts,board
+"Gifts - Postcards, stickers",66,gifts,postcards
+Gifts - Development,67,gifts,development
+"Gifts - Certificates, services",68,gifts,certificates
+Gifts - Souvenirs,69,gifts,souvenirs
+Gifts - Souvenirs (in bulk),70,gifts,souvenirs
+"Gifts - Bags, Albums, Mouse pads",71,gifts,bags
+Gifts - Figures,72,gifts,figures
+Programs - 1C: Enterprise 8,73,programs,enterprise
+Programs - MAC (Digital),74,programs,mac
+Programs - For home and office,75,programs,home
+Programs - For home and office (Digital),76,programs,home
+Programs - Educational,77,programs,educational
+Programs - Educational (Digital),78,programs,educational
+Service,79,service,service
+Official - Tickets,80,tickets,tickets
+Pure media (spire),81,pure media,pure media
+Blank media (piece),82,blank media,blank media
+Batteries,83,batteries,batteries
