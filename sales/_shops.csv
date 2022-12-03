@@ -1,0 +1,61 @@
+shop_name,shop_id,city,shop_kind,shop_brand
+"Yakutsk Ordzhonikidze, 56 francs",0,Yakutsk,other,56
+"Yakutsk shopping center "" Central "" franc",1,Yakutsk,sc,central
+"Adygea shopping center ""Mega""""""",2,Adygea,sc,mega
+"Balashikha TRC ""Oktyabr-Kinomir""""""",3,Balashikha,trc,oktyabr
+"Volzhsky shopping center ""Volga Mall""""",4,Volzhsky,sc,volga
+"Vologda SEC ""Marmelade""""",5,Vologda,sec,marmelade
+"Voronezh (Plekhanovskaya, 13)",6,Voronezh,other,plekhanovskaya
+"Voronezh SEC ""Maksimir""""",7,Voronezh,sec,maksimir
+"Voronezh SEC City-Park Grad""""",8,Voronezh,sec,citipark
+Outbound Trade,9,Outbound,other,outbound
+Zhukovsky st. Chkalova 39m?,10,Zhukovsky,other,st. chkaloa
+Zhukovsky st. Chkalova 39m²,11,Zhukovsky,other,st. chkaloa
+Online store ChS,12,Online,online,chs
+"Kazan shopping center ""Bekhetle""""",13,Kazan,sc,bekhetle
+"Kazan shopping center ""Parkhouse"" ""II""",14,Kazan,sc,parkhouse
+"Kaluga SEC ""XXI century""""""",15,Kaluga,sec,xxi
+"Kolomna shopping center ""Rio""""",16,Kolomna,sc,rio
+"Krasnoyarsk shopping center ""Vzletka Plaza"" """"",17,Krasnoyarsk,sc,vzletka
+"Krasnoyarsk shopping center ""June""""",18,Krasnoyarsk,sc,june
+"Kursk shopping center ""Pushkinsky""""",19,Krasnoyarsk,sc,pushkinsky
+"Moscow Sale""""",20,Moscow,sale,sale
+"Moscow MTRC ""Afi Mall""""",21,Moscow,mtrc,afi
+Moscow Store С21,22,Moscow,store,21
+"Moscow TC ""Budenovsky"""" (pavilion A2)""",23,Moscow,tc,budenovsky
+"Moscow TC ""Budenovsky"""" (pavilion K7)""",24,Moscow,tc,budenovsky
+"Moscow SEC ""Atrium""""",25,Moscow,sec,atrium
+"Moscow shopping center ""Areal"""" (Belyaevo)""",26,Moscow,sc,areal
+"Moscow shopping center ""MEGA Belaya Dacha II""""""",27,Moscow,sc,mega
+"Moscow shopping center ""MEGA Teply Stan"" ""II""",28,Moscow,sc,mega
+"Moscow shopping center "" Novy Vek "" (Novokosino)",29,Moscow,sc,novy vek
+"Moscow shopping center ""Perlovsky""""",30,Moscow,sc,perlovsky
+"Moscow shopping center ""Semenovsky""""",31,Moscow,sc,semnovsky
+"Moscow shopping center ""Silver House""""""",32,Moscow,sc,silver house
+"Mytishchi SEC ""XL-3""",33,Mytishchi,sec,xl
+"N.Novgorod SEC ""RIO""""",34,N.Novgorod,sec,rio
+"N.Novgorod SEC Fantastica""""",35,N.Novgorod,sec,fantastica
+"Novosibirsk SEC ""Novosibirsk Gallery""""",36,Novosibirsk,sec,novo
+"Novosibirsk shopping center ""Mega""""",37,Novosibirsk,sc,mega
+"Omsk shopping center ""Mega""""",38,Omsk,sc,mega
+"Rostov-on-Don SEC ""Megacenter Horizont""""",39,Rostov,sec,mega
+"Rostov-on-Don SEC ""Megacenter Horizon"" Ostrovnoy",40,Rostov,sec,mega
+"Rostov-on-Don shopping center ""Mega""""",41,Rostov,sc,mega
+"SPb TC ""Nevsky Center""""",42,SPb,tc,nevsky
+"SPb TC ""Sennaya""""",43,SPb,tc,sennaya
+"Samara shopping center Melody""""",44,Samara,sc,melody
+"Samara Shopping Center Parkhouse""""",45,Samara,sc,parkhouse
+"Sergiev Posad shopping center ""7Ya""""",46,Sergiev Posad,sc,7ya
+"Surgut SEC City Mall""""",47,Surgut,sec,citimall
+"Tomsk SEC Emerald City""""",48,Tomsk,sec,emerald
+"Tyumen SEC ""Crystal""""""",49,Tyumen,sec,crystal
+"Tyumen shopping center ""Goodwin""""",50,Tyumen,sc,goodwin
+"Tyumen shopping center ""Zeleny Bereg""""",51,Tyumen,sc,zeleny
+"Ufa TC Central""""",52,Ufa,tc,central
+"Ufa shopping center ""Family"""" 2""",53,Ufa,sc,family
+"Khimki shopping center ""Mega""""",54,Khimski,sc,maga
+Digital warehouse 1C-Online,55,Online,online,online
+"Chekhov SEC ""Carnival""""",56,Chekov,sec,carnival
+"Yakutsk Ordzhonikidze, 56",57,Yakutsk,other,56
+"Yakutsk shopping center ""Central""""",58,Yakutsk,sc,central
+"Yaroslavl shopping center ""Altair""""",59,Yaroslavl,sc,altair
