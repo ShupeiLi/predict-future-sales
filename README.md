@@ -25,3 +25,5 @@ Advances in Data Mining Project 2.
 - Deep Learning: MLP
 - Ensemble Learning: XGBoost + CatBoost + SGDRegressor + Ridge Regression + LGBM
     - 特征重要性评估 / 模型选择
+
+预训练词向量下载：https://fasttext.cc/docs/en/pretrained-vectors.html
