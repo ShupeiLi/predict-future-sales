@@ -66,15 +66,21 @@ First, we count the number of shops and items in the datasets. There are 60 shop
     \centering
     \caption{Summary of Descriptive Statistics}
     \label{tab:de-stat}
+    \begin{threeparttable}
     \begin{tabular}{llllllll}
         \toprule
         \textbf{Variable} & \textbf{Mean} & \textbf{Std.} & \textbf{Min} & \textbf{Median} & \textbf{Max} & \textbf{\#Negative Records}\\
         \midrule
         Item Price & 890.9 & 1,729.8 & -1 & 399 & 307,980 & 1\\
         Daily Sales & 1.2 & 2.6 & -2.2 & 1 & 2,169 & 7,356\\
-        Total Sales by Category & 43,431.0 & 99,846.0 & 1 & 9,515.5 & 634,171 & 84\\
+        Total Sales by Category* & 43,431.0 & 99,846.0 & 1 & 9,515.5 & 634,171 & -\\
         \bottomrule
     \end{tabular}
+    \begin{tablenotes}
+        \footnotesize
+        \item[*] The number of categories is 84.
+    \end{tablenotes}
+    \end{threeparttable}
 \end{table}
 
 According to Table \ref{tab:de-stat}, there are anomalies in item price and daily sales, i.e., negative values. We deal with these anomalies at the stage of preprocessing. Besides, we notice that the maximum of item price may be too high. We further investigate possible outliers in the item price by drawing box lpots. Figure \ref{fig:price-box} shows the box plots with and without outliers. The outlier of item price is significant, with a maximum value over 300,000 that deviates from the normal range. We need to take over highly prices into consideration when creating features. 
